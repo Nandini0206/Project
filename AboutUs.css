@@ -32,6 +32,7 @@ p {
 
 div {
   padding: 30px 100px 40px 100px;
+  border-color: black;
 }
 
 /* .zoom {
