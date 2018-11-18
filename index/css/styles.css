@@ -1,0 +1,11 @@
+.btn-twitter {
+  background: #00acee;
+  border-color: #009ad5;
+}
+
+.jumbotron {
+  background-image: url('../images/fruit-and-veg.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 600px;
+}
