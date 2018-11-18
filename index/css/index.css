@@ -10,5 +10,6 @@ ul {
 
 ul li {
     display: inline;
+    align-items: center;
     padding: 10px 10px 10px 10px;
 }
