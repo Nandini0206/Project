@@ -35,6 +35,18 @@ div {
   border-color: black;
 }
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul li {
+    display: inline;
+    align-items: center;
+    padding: 10px 50px 0px 50px;
+}
+
 /* .zoom {
   background-image: image(Tara.jpeg);
   transition: transform .2s;
