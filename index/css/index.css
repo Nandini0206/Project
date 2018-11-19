@@ -15,6 +15,10 @@ ul li {
     padding: 10px 50px 0px 50px;
 }
 
+#navitems {
+  margin: 20px;
+}
+
 #social-buttons {
   padding: 0px 30px 0px 30px;
 }
