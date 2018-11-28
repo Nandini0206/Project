@@ -2,6 +2,7 @@ body {
   text-align: center;
   padding-top: 70px;
   font-family: 'Raleway', sans-serif;
+  background-image: url('title-background.jpg');
 }
 
 
@@ -27,7 +28,6 @@ header {
 
 #Title {
   padding: 0px 0px 150px 0px;
-  background-image: url('title-background.jpg');
 }
 
 ul {
