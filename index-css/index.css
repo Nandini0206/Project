@@ -2,9 +2,13 @@ body {
   text-align: center;
   padding-top: 70px;
   font-family: 'Raleway', sans-serif;
-  background-image: url('title-background.jpg');
 }
 
+.jumbotron{
+  background-image: url('title-background.jpeg');
+  background-size: cover;
+  background-attachment: fixed;
+}
 
 #navitems li {
     display: inline;
@@ -27,7 +31,7 @@ header {
 }
 
 #Title {
-  padding: 0px 0px 150px 0px;
+  padding: 0px 0px 100px 0px;
 }
 
 ul {
