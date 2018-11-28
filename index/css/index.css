@@ -26,7 +26,8 @@ header {
 }
 
 #Title {
-  padding: 0px 0px 150px 0px
+  padding: 0px 0px 150px 0px;
+  background-image: image(title-background.jpg);
 }
 
 ul {
