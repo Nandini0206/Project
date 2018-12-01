@@ -50,7 +50,3 @@ ol {
   list-style-position: inside;
   padding-right: 30px;
 }
-
-.col-sm-3 {
-  grid-row-gap: 50%;
-}
