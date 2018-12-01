@@ -85,8 +85,9 @@ ol {
   opacity: 1;
 }
 
-#carousel-example-generic {
-  padding: 70px;
+
+#carousel-example-generic.carousel.slide {
+  padding: 50px;
 }
 
 .item {
