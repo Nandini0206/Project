@@ -57,8 +57,6 @@ ol {
   grid-gap: 20px;
 }
 
-<<<<<<< HEAD
-=======
 .contain {
   position: relative;
   width: 50%;
@@ -89,8 +87,6 @@ ol {
   opacity: 1;
 }
 
-* {box-sizing:border-box}
->>>>>>> 0a2334fb8d96016872424ef062b4c39a9c22a4bd
 
 /* Slideshow container */
 .slideshow-container {
