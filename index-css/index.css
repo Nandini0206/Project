@@ -39,6 +39,7 @@ ul {
   list-style-type: none;
   padding-right: 30px;
   align-items: center;
+  margin: 10px;
 }
 
 .section {
