@@ -51,7 +51,7 @@ ol {
   padding-right: 30px;
 }
 
-.row 1 {
+.row1 {
   display: grid;
   grid-template-columns: repeat(8, 1fr);
   grid-gap: 10px;
@@ -63,15 +63,15 @@ ol {
     "c c c c d d d d";
   align-items: start;
 }
-.column 1 {
+.column1 {
   grid-area: a;
 }
-.column 2 {
+.column2 {
   grid-area: b;
 }
-.column 3 {
+.column3 {
   grid-area: c;
 }
-.column 4 {
+.column4 {
   grid-area: d;
 }
