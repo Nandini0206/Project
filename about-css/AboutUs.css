@@ -1,0 +1,71 @@
+body {
+  padding-top: 100px;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  color: #5D575B;
+  background-color: #F9E8F2;
+}
+
+#navitems li {
+    display: inline;
+    align-items: center;
+    padding: 0px 50px 0px 50px;
+}
+
+#navitems {
+  margin: 20px;
+  list-style-type: none;
+  padding: 0;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+
+img {
+  border-color: black;
+  border: 10px;
+  border-radius: 50%;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+p {
+  font-size: 20px;
+  padding: 0px 150px 0px 150px;
+}
+
+
+div {
+  padding: 30px 100px 40px 100px;
+  border-color: black;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+ul li {
+    display: inline;
+    align-items: center;
+    padding: 0px 50px 0px 50px;
+}
+
+/* .zoom {
+  background-image: image(Tara.jpeg);
+  transition: transform .2s;
+}
+
+.zoom:hover {
+    transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+/*
