@@ -50,6 +50,7 @@ ol {
   align-items: center;
   list-style-position: inside;
   padding-right: 30px;
+  margin: 10px;
 }
 
 .wrapper {
