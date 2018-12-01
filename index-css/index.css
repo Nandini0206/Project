@@ -50,3 +50,9 @@ ol {
   list-style-position: inside;
   padding-right: 30px;
 }
+
+.wrapper {
+  display: grid;
+  grid-template-columns: 100px 100px;
+  grid-gap: 10px;
+}
