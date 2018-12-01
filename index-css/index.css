@@ -5,7 +5,7 @@ body {
   background-color: lightblue;
 }
 
-.jumbotron{
+.jumbotron {
   background-image: url('title-background.jpeg');
   background-size: cover;
   background-attachment: fixed;
