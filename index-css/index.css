@@ -6,7 +6,7 @@ body {
 }
 
 .jumbotron {
-  background-image: url('title-background.jpeg');
+  background-image: url('file:///Users/Tara/Desktop/CFGCourse2018/GitHub/Project/title-background.jpeg');
   background-size: cover;
   background-attachment: fixed;
 }
