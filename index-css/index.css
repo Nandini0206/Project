@@ -50,3 +50,12 @@ ol {
   list-style-position: inside;
   padding-right: 30px;
 }
+
+.column 1 {
+  float: none;
+  width: 33.33%;
+  padding: 5px;
+  border-color: lilac;
+  border: 10px;
+  border-radius: 50%;
+}
