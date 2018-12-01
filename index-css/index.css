@@ -81,16 +81,16 @@ ol {
   text-align: center;
 }
 
-.container:hover .1 {
+.container:hover #1 {
   opacity: 1;
 }
-.container:hover .2 {
+.container:hover #2 {
   opacity: 1;
 }
-.container:hover .3 {
+.container:hover #3 {
   opacity: 1;
 }
-.container:hover .4 {
+.container:hover #4 {
   opacity: 1;
 }
 
