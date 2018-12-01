@@ -50,28 +50,3 @@ ol {
   list-style-position: inside;
   padding-right: 30px;
 }
-
-.row1 {
-  display: grid;
-  grid-template-columns: repeat(8, 1fr);
-  grid-gap: 10px;
-  grid-auto-rows: 100px;
-  grid-template-areas:
-    "a a a a b b b b"
-    "a a a a b b b b"
-    "c c c c d d d d"
-    "c c c c d d d d";
-  align-items: start;
-}
-.column1 {
-  grid-area: a;
-}
-.column2 {
-  grid-area: b;
-}
-.column3 {
-  grid-area: c;
-}
-.column4 {
-  grid-area: d;
-}
