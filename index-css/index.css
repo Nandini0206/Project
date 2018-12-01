@@ -57,13 +57,6 @@ ol {
   grid-gap: 20px;
 }
 
-.contain {
-  position: relative;
-  width: 50%;
-  max-width: 300px;
-}
-
-* {box-sizing:border-box}
 
 /* Slideshow container */
 .slideshow-container {
