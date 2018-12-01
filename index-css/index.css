@@ -78,8 +78,7 @@ ol {
   transition: .5s ease;
   opacity:0;
   color: white;
-  font-size: 20px;
-  padding: 20px;
+  font-size: 10px;
   text-align: center;
 }
 
