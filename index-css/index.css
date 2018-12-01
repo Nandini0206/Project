@@ -84,12 +84,3 @@ ol {
 .container:hover .overlay {
   opacity: 1;
 }
-
-
-#carousel-example-generic.carousel.slide {
-  padding: 50px;
-}
-
-.item {
-  padding: 50px;
-}
