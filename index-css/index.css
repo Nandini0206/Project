@@ -50,7 +50,7 @@ ol {
   list-style-position: inside;
   padding-right: 30px;
 }
-li {
+.list {
   margin: 50px;
 }
 
