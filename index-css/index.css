@@ -67,7 +67,7 @@ ol {
 }
 
 .overlay {
-  position: relative;
+  position: absolute;
   bottom: 0;
   background: rgb(0, 0, 0);
   background: rgba(0, 0, 0, 0.5);
@@ -81,7 +81,16 @@ ol {
   text-align: center;
 }
 
-.container:hover .overlay {
+.container:hover #1 {
+  opacity: 1;
+}
+.container:hover #2 {
+  opacity: 1;
+}
+.container:hover #3 {
+  opacity: 1;
+}
+.container:hover #4 {
   opacity: 1;
 }
 
