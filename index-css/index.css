@@ -44,3 +44,7 @@ ul {
 .section {
   padding: 80px 0px 80px 0px;
 }
+
+ol {
+  align-items: center;
+}
