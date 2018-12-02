@@ -146,4 +146,16 @@ a:hover {
   width: 100%;
   padding: 10px 20px;
   background: #9C68A1;
+  text-align: right;
+  box-sizing: border-box;
+  color: #9C68A1;
+  font-size: 30px;
+  display: none;
+
+}
+
+@media (max-width: 768px){
+  .toggle {
+    display: block;
+  }
 }
