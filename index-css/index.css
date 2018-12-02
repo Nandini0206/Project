@@ -28,11 +28,8 @@ body {
 }
 
 header {
-  padding: 200px 0px 100px 0px;
-}
-
-h1 {
   font-size: 100px;
+  padding: 200px 0px 100px 0px;
 }
 
 #Title {
@@ -43,6 +40,14 @@ ul {
   list-style-type: none;
   padding-right: 30px;
   align-items: center;
+}
+
+.h2 {
+  font-weight: bold;
+}
+
+.h3 {
+  font-weight: bold;
 }
 
 .section {
@@ -92,12 +97,4 @@ ol {
 
 .container:hover .overlay {
   opacity: 1;
-}
-
-.h2 {
-  font-weight: bold;
-}
-
-.h3 {
-  font-weight: bold;
 }
