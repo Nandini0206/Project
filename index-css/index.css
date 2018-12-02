@@ -56,6 +56,15 @@ h3 {
   padding: 0px 0px 100px 0px;
 }
 
+.button-row {
+  display: flex;
+}
+
+.button-column {
+  flex: 33.33%;
+  padding: 5px;
+}
+
 ul {
   list-style-type: none;
   padding-right: 30px;
