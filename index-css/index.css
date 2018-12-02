@@ -28,8 +28,11 @@ body {
 }
 
 header {
+<<<<<<< HEAD
   padding: 250px 0px 150px 0px;
   font-size: large;
+=======
+>>>>>>> b828f6184a312541ca98120aa9a83c4d53edcc03
 }
 
 #Title {
