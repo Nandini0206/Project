@@ -141,21 +141,3 @@ a:hover {
 .trends {
   padding-bottom: 40px;
 }
-
-.toggle {
-  width: 100%;
-  padding: 10px 20px;
-  background: #F8F8F8;
-  text-align: right;
-  box-sizing: border-box;
-  color: #9C68A1;
-  font-size: 30px;
-  display: none;
-
-}
-
-@media (max-width: 768px){
-  .toggle {
-    display: block;
-  }
-}
