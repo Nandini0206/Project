@@ -19,6 +19,7 @@ body {
 
 .row {
   display: flex;
+  padding: 70px 0px 70px 0px;
 }
 
 .column {
@@ -33,7 +34,7 @@ img {
 }
 
 h1 {
-  font-size: 48px;
+  font-size: large;
 }
 
 p {
