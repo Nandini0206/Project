@@ -8,10 +8,10 @@ body {
 #navitems li {
     display: inline;
     align-items: center;
+    padding: 0px 50px 0px 50px;
 }
 
 #navitems {
-  margin: 20px;
   list-style-type: none;
 }
 
