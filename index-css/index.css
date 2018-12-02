@@ -32,6 +32,10 @@ body {
   padding-top: 25px;
 }
 
+button:hover {
+  color: #C3649C;
+}
+
 .button {
   padding: 0px 10px 0px 10px;
 }
