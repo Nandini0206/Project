@@ -23,6 +23,7 @@
         <li><a href="#Fashion" class="slide-section">Fashion</a></li>
       </ul>
     </div>
+    <div class="handle">Menu</div>
   </nav>
 
   <div class='jumbotron'>
@@ -269,7 +270,11 @@
   <script src="https://code.jquery.com/jquery.js"></script>
   <script type="text/javascript" src="js/bootstrap.min.js"></script>
   <script src="js/custom.js" type="text/javascript"></script>
-
+ <script>
+ $('.handle').on('click', function() {
+   $('nav ul').toggleClass('showing');
+ });
+ </script>
 </body>
 
 </html>
