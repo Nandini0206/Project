@@ -28,11 +28,16 @@ body {
 }
 
 header {
+<<<<<<< HEAD
   padding: 200px 0px 100px 0px;
 }
 
 h1 {
   font-size: 200px;
+=======
+  font-size: 100px;
+  padding: 200px 0px 100px 0px;
+>>>>>>> 42aab82a3ea22cc031235922612b2c7426b621d5
 }
 
 #Title {
@@ -43,6 +48,14 @@ ul {
   list-style-type: none;
   padding-right: 30px;
   align-items: center;
+}
+
+.h2 {
+  font-weight: bold;
+}
+
+.h3 {
+  font-weight: bold;
 }
 
 .section {
@@ -92,12 +105,4 @@ ol {
 
 .container:hover .overlay {
   opacity: 1;
-}
-
-.h2 {
-  font-weight: bold;
-}
-
-.h3 {
-  font-weight: bold;
 }
