@@ -101,6 +101,6 @@ ol {
   opacity: 1;
 }
 
-li {
-  font-color: black;
+a {
+  color: black;
 }
