@@ -28,8 +28,11 @@ body {
 }
 
 header {
-  font-size: 100px;
   padding: 200px 0px 100px 0px;
+}
+
+h1 {
+  font-size: 100px;
 }
 
 #Title {
