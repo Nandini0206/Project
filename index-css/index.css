@@ -80,6 +80,7 @@ ol {
   display: block;
   width: 100%;
   height: 100%;
+  padding-top: 50px;
 }
 
 .overlay {
@@ -106,8 +107,4 @@ a {
 }
 a:hover {
   color: #C3649C;
-}
-
-.col-sm-6 {
-  padding-top: 50px;
 }
