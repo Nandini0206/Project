@@ -65,7 +65,6 @@ ol {
 .list {
   margin: 50px;
   font-size: large;
-  font-color: black;
 }
 
 .wrapper {
@@ -100,4 +99,8 @@ ol {
 
 .container:hover .overlay {
   opacity: 1;
+}
+
+li {
+  font-color: black;
 }
