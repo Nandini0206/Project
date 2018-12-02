@@ -28,7 +28,7 @@ body {
 }
 
 header {
-  padding: 200px 0px 100px 0px;
+  padding: 250px 0px 150px 0px;
 }
 
 #Title {
@@ -52,7 +52,7 @@ ol {
 }
 .list {
   margin: 50px;
-  font-size: large;
+  font-size: 40px;
 }
 
 .wrapper {
