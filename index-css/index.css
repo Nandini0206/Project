@@ -104,3 +104,6 @@ ol {
 a {
   color: black;
 }
+a:hover {
+  color: #C3649C;
+}
