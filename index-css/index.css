@@ -29,6 +29,7 @@ body {
 
 header {
   padding: 250px 0px 150px 0px;
+  font-size: large;
 }
 
 #Title {
@@ -53,6 +54,7 @@ ol {
 .list {
   margin: 50px;
   font-size: large;
+  font-color: black;
 }
 
 .wrapper {
