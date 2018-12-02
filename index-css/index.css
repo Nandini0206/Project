@@ -28,11 +28,7 @@ body {
 }
 
 header {
-<<<<<<< HEAD
-  padding: 100px 0px 100px 0px;
-=======
   padding: 250px 0px 150px 0px;
->>>>>>> 81cd1fe1e4da7cb2f8ae10b4492b0bfbb208dcf6
 }
 
 #Title {
@@ -56,7 +52,7 @@ ol {
 }
 .list {
   margin: 50px;
-  font-size: 40px;
+  font-size: 30px;
 }
 
 .wrapper {
