@@ -18,6 +18,7 @@
     <li><a href="https://tsankhalpara.github.io/Project/#Fashion">Fashion</a></li>
   </ul>
   </div>
+  <div class="handle">Menu</div>
  </nav>
         <h1>About Us</h1>
 <div class="profile-pic">
@@ -39,5 +40,11 @@
           likes, dislikes and experiences with you all!
         </p>
 
+<script src="https://code.jquery.com/jquery.js"></script>
+  <script>
+        $('.handle').on('click', function() {
+          $('nav ul').toggleClass('showing');
+        });
+  </script>
     </body>
 </html>
