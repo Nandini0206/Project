@@ -35,6 +35,14 @@ h1 {
   font-size: 200px;
 }
 
+h2 {
+  font-weight: bold;
+}
+
+h3 {
+  font-weight: bold;
+}
+
 #Title {
   padding: 0px 0px 100px 0px;
 }
@@ -43,14 +51,6 @@ ul {
   list-style-type: none;
   padding-right: 30px;
   align-items: center;
-}
-
-h2 {
-  font-weight: bold;
-}
-
-h3 {
-  font-weight: bold;
 }
 
 .section {
