@@ -58,3 +58,11 @@ ul {
   margin: 0px;
   padding: 0px;
 }
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: #C3649C;
+}
