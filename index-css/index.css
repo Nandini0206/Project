@@ -29,6 +29,7 @@ nav ul li {
 }
 
 .social-buttons {
+  align-items: center;
   padding: 100px 280px 0px 280px;
 }
 
