@@ -141,3 +141,9 @@ a:hover {
 .trends {
   padding-bottom: 40px;
 }
+
+.toggle {
+  width: 100%;
+  padding: 10px 20px;
+  background: #9C68A1;
+}
