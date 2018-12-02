@@ -65,6 +65,7 @@ ol {
 .list {
   margin: 50px;
   font-size: large;
+  padding-top: 15px;
 }
 
 .wrapper {
