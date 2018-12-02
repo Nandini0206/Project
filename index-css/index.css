@@ -29,6 +29,7 @@ body {
 
 header {
 <<<<<<< HEAD
+<<<<<<< HEAD
   padding: 200px 0px 100px 0px;
 }
 
@@ -38,6 +39,10 @@ h1 {
   font-size: 100px;
   padding: 200px 0px 100px 0px;
 >>>>>>> 42aab82a3ea22cc031235922612b2c7426b621d5
+=======
+  font-size: 100px;
+  padding: 200px 0px 100px 0px;
+>>>>>>> 06d7e5ab1211bfa48019bdd27cb32935025da8a0
 }
 
 #Title {
@@ -50,11 +55,19 @@ ul {
   align-items: center;
 }
 
+<<<<<<< HEAD
 .h2 {
   font-weight: bold;
 }
 
 .h3 {
+=======
+h2 {
+  font-weight: bold;
+}
+
+h3 {
+>>>>>>> 06d7e5ab1211bfa48019bdd27cb32935025da8a0
   font-weight: bold;
 }
 
