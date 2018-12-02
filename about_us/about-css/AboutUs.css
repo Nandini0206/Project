@@ -38,7 +38,7 @@ h1 {
 }
 
 p {
-  font-size: 20px;
+  font-size: 15px;
   padding: 0px 150px 0px 150px;
 }
 
@@ -59,13 +59,3 @@ ul li {
     align-items: center;
     padding: 0px 50px 0px 50px;
 }
-
-/* .zoom {
-  background-image: image(Tara.jpeg);
-  transition: transform .2s;
-}
-
-.zoom:hover {
-    transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
-}
-/*
