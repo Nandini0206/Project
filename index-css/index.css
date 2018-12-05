@@ -1,5 +1,3 @@
-/* You have used padding a lot throughout your code but keep in kind where it might be better to use margin instead */
-/* This explains some cases for using either: https://medium.com/frontendshortcut/margin-vs-padding-c1fc8ea8bfaf */
 
 body {
   text-align: center;
@@ -32,24 +30,7 @@ nav ul li {
 
 .social-buttons {
   align-content: center;
-  /*
-    Pixels are finite values, whereas percentages are relative values.
-    This means that 280px is always the same size in all cases, whereas a % will be calculated from the parent element
-    By using % it says when the screen is narrower then take up less space.
-   */
-  /*padding: 100px 280px 0px 280px;*/
   padding: 0 20%;
-
-  /*
-    This is another option. It says that we only ever want the buttons to spread across 60% of the width of the screen
-    Again, using % means it reacts to the size of the screen.
-    "margin: 0 auto" is a common trick for centering blocks horizontally. It says, automatically calculate the margin
-    on the left and right sides, which browsers end up centring.
-  */
-  /*width: 60%;*/
-  /*margin: 0 auto;*/
-
-  /* You could also experiment with min-width and max-width properties to tweak the design too */
 }
 
 .subscribe {
@@ -69,7 +50,6 @@ header {
   padding: 200px 0px;
 }
 
-/* Is this needed? */
 h1 {
   font-size: 100%;
 }
@@ -104,8 +84,6 @@ ul {
 }
 
 .section {
-  /* Be wary of adding lots of padding to the top of sections because responsiveness normally means that things will
-     stack on top of each-other/go vertical, so top/bottom paddings and margin will look big on a mobile screen*/
   padding-top: 80px;
 }
 
@@ -115,11 +93,7 @@ ol {
   padding-right: 30px;
 }
 
-/* As vertical space is so much more important on mobile screens be wary of adding all this vertical margin (50px)
-   Maybe add a media query for smaller screens to render less margin */
-/* You might also want to think of renaming this, really it is a list item, not a list */
 .list {
-  margin: 50px 0;
   font-size: large;
   padding-top: 15px;
 }
@@ -187,7 +161,7 @@ a:hover {
   color: black;
   display: none;
 }
-@media screen and (max-width: 580px){
+@media screen and (max-width: 540px){
   nav ul {
     max-height: 0;
   }
