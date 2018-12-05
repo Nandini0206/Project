@@ -56,6 +56,7 @@ h1 {
 
 h2 {
   font-weight: bold;
+  color: white;
 }
 
 h3 {
@@ -96,6 +97,7 @@ ol {
   margin: 50px 0;
   font-size: large;
   padding-top: 15px;
+  align-items: center;
 }
 
 .wrapper {
