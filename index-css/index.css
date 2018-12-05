@@ -3,9 +3,6 @@
 
 body {
   text-align: center;
-  /* I think this was added because the second navbar class (which has been changed to navbar-nav)
-    was adding extra space. It is no longer needed. */
-  /* padding-top: 70px; */
   font-family: 'Raleway', sans-serif;
   background-color: #F4C9D3;
 }
@@ -13,7 +10,7 @@ body {
 .jumbotron {
   background-image: url('https://images.unsplash.com/photo-1520052205864-92d242b3a76b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f440be669cb7081adb95b8c0fdff951f&w=1000&q=80');
   background-size: cover;
-  background-attachment: fixed;
+  background-attachment: local;
 }
 
 nav ul {
@@ -33,13 +30,6 @@ nav ul li {
   padding: 20px 30px 0px 30px;
 }
 
-/*
-  If you've not seen padding or margin with only two values this basically means top/bottom and left/right
-  So,
-    padding: 0 20%; is the same as:
-    padding: 0 20% 0 20%;
-
-*/
 .social-buttons {
   align-content: center;
   /*
@@ -72,11 +62,11 @@ nav ul li {
 }
 
 .button {
-  padding: 0px 10px 0px 10px;
+  padding: 0px 10px;
 }
 
 header {
-  padding: 140px 0px 60px 0px;
+  padding: 200px 0px;
 }
 
 /* Is this needed? */
@@ -116,8 +106,7 @@ ul {
 .section {
   /* Be wary of adding lots of padding to the top of sections because responsiveness normally means that things will
      stack on top of each-other/go vertical, so top/bottom paddings and margin will look big on a mobile screen*/
-  /* Also, this could just be padding-top: 80px; */
-  padding: 80px 0px 0px 0px;
+  padding-top: 80px;
 }
 
 ol {
@@ -184,7 +173,6 @@ a:hover {
 }
 
 .navbar-nav {
-  /* prevent the navbar from aligning on the left */
   float: none;
 }
 
@@ -214,9 +202,5 @@ a:hover {
   .handle {
     display: block;
   }
-  /*
-  .list {
-    margin: 10px 0;
-  }
-  */
+
 }
