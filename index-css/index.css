@@ -93,6 +93,7 @@ ol {
 }
 
 .list {
+  margin: 50px 0;
   font-size: large;
   padding-top: 15px;
 }
